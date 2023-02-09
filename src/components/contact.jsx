@@ -150,7 +150,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; Responsive React Land Page Template. Design by{""}
-            <a href="https://luxury-tapioca-6d3838.netlify.app/" rel="nofollow">
+            <a href="https://jaikrishnavr.com/" rel="nofollow">
               Jai krishna
             </a>
           </p>
